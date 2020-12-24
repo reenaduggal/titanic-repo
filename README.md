@@ -5,3 +5,7 @@ We are 4 member team
 Reena - Admin
 Sunil - Data Sourcing & Cleaning
 Neha - EDA
+
+I am adding Heatmap graph
+
+I am also changing the name of first passenger
